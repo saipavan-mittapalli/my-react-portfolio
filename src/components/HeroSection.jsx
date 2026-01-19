@@ -23,9 +23,9 @@ const HeroSection = () => {
 
           {/* Name */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold mb-6 animate-slide-up">
-            <span className="gradient-text glow-text">Full Stack</span>
+            <span className="gradient-text glow-text">Sai Pavan Mittapalli</span>
             <br />
-            <span className="text-foreground">Developer</span>
+            <span className="text-foreground"> Full Stack Developer</span>
           </h1>
 
           {/* Tagline */}
