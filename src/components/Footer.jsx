@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-muted-foreground text-sm flex items-center gap-1">
-            Made with <Heart size={14} className="text-primary" /> by Full Stack Developer
+            Made with <Heart size={14} className="text-primary" /> by Sai Pavan Mittapalli 
           </p>
           
           <p className="text-muted-foreground text-sm">
@@ -26,7 +26,7 @@ const Footer = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="linkedin.com/in/saipavanmittapalli/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
