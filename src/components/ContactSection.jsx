@@ -7,20 +7,14 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@example.com",
-    href: "mailto:hello@example.com",
-  },
-  {
-    icon: Phone,
-    label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    value: "mittapallisaipavan@gmail.com ",
+    href: "mailto:mittapallisaipavan@gmail.com",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
-    href: null,
+    value: "Karimnagar, India",
+    href: null, 
   },
 ];
 
